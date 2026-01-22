@@ -1,0 +1,5 @@
+{
+  "name": "KafkaFlow Enterprise Console",
+  "description": "A high-fidelity interactive dashboard to learn, provision, and scale Kafka clusters with AI-driven throughput analysis and guided learning.",
+  "requestFramePermissions": []
+}
